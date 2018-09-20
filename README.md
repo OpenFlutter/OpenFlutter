@@ -5,3 +5,4 @@
  Welcome to share the Flutter project to OpenFlutter.</br>
  随时欢迎分享Flutter项目到OpenFlutter。
  
+jarvan.mo@gmail.com
