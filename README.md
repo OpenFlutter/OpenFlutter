@@ -3,6 +3,11 @@
 OpenFlutter is a open source organization of Flutter.OpenFutter is a central place for all community made Flutter packages.
 
 ---
+## 什么是OpenFlutter
+
+OpenFlutter是一个Flutter的开源组织。OpenFutter致力于成为第三方Flutter包集中地。
+
+---
 
 
  OpenFlutter makes it easier.<br>
