@@ -82,3 +82,7 @@ resolve gallery demos navigation bar will dispose's problem.
 [mmkv_flutter](https://github.com/OpenFlutter/mmkv_flutter)  
 [mmkv](https://github.com/Tencent/MMKV)库的flutter插件,mmkv是一个c++编写的高速key value库  
 [mmkv](https://github.com/Tencent/MMKV) library's flutter plugin, [mmkv](https://github.com/Tencent/MMKV) is a high-speed key value library written by c++.
+
+[flutter_ok_image](https://github.com/OpenFlutter/flutter_ok_image)  
+加载网络图片的框架,支持重试/失败/超时/加载动画  
+load net image,support retry/error/loading/timeout
