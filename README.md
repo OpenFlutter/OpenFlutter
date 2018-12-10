@@ -88,5 +88,5 @@ resolve gallery demos navigation bar will dispose's problem.
 加载网络图片的框架,支持重试/失败/超时/加载动画  
 load net image,support retry/error/loading/timeout
 
-[nautilus](https://github.com/OpenFlutter/nautilus)
+[nautilus](https://github.com/OpenFlutter/nautilus) 
 Nautilus是阿里百川电商SDK在Flutter上的实现，通过Nautilus可以实现淘宝登录，打开淘宝商品详情等功能。
