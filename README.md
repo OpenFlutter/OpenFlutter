@@ -90,3 +90,6 @@ load net image,support retry/error/loading/timeout
 
 [nautilus](https://github.com/OpenFlutter/nautilus)  
 Nautilus是阿里百川电商SDK在Flutter上的实现，通过Nautilus可以实现淘宝登录，打开淘宝商品详情等功能。
+
+[amap_base_flutter](https://github.com/OpenFlutter/amap_base_flutter)  
+高德地图的PlatformView版 使用AndroidView UIKitView实现
