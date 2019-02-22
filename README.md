@@ -1,6 +1,10 @@
 # OpenFlutter
 ![logo](./arts/logo.png)
 
+## 微信公众号
+![wx](./arts/wx.png)
+
+
 ## What's OpenFlutter
 
 OpenFlutter is a open source organization of Flutter.OpenFutter is a central place for all community made Flutter packages.
@@ -21,10 +25,6 @@ Welcome to share the Flutter project to OpenFlutter.
 随时欢迎分享 Flutter 项目到 OpenFlutter。
 
 jarvan.mo@gmail.com
-
-
-## 微信公众号
-![wx](./arts/wx.png)
 
 ## 现有项目大致介绍
 
@@ -97,4 +97,4 @@ Nautilus是阿里百川电商SDK在Flutter上的实现，通过Nautilus可以实
 
 [amap_base_flutter](https://github.com/OpenFlutter/amap_base_flutter)  
 AMap flutter plugin  
-高德地图Flutter插件 基于AndroidView和UiKitView，可以嵌入Widget树中。
+高德地图Flutter插件 基于AndroidView和UiKitView，可以嵌入Widget
