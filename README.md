@@ -22,6 +22,10 @@ Welcome to share the Flutter project to OpenFlutter.
 
 jarvan.mo@gmail.com
 
+
+## 微信公众号
+![wx](./arts/wx.png)
+
 ## 现有项目大致介绍
 
 [OpenFlutter](https://github.com/OpenFlutter/OpenFlutter)  
