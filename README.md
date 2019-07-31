@@ -98,3 +98,11 @@ Nautilus是阿里百川电商SDK在Flutter上的实现，通过Nautilus可以实
 [amap_base_flutter](https://github.com/OpenFlutter/amap_base_flutter)  
 AMap flutter plugin  
 高德地图Flutter插件 基于AndroidView和UiKitView，可以嵌入Widget
+
+[rammus](https://github.com/OpenFlutter/rammus)
+Plugin for AliCloud Push
+阿里云推送插件。
+
+[flutter_page_indicator](https://github.com/OpenFlutter/flutter_page_indicator)
+Page indicator for flutter, with multiple build-in layouts. Forked from best-flutter.
+酷炫的指示器，多达６种指示器样式。
