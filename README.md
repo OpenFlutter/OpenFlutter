@@ -24,7 +24,9 @@ OpenFlutter 让 flutter 开发更简单。
 Welcome to share the Flutter project to OpenFlutter.  
 随时欢迎分享 Flutter 项目到 OpenFlutter。
 
-jarvan.mo@gmail.com
+If you have any quetions or want to be member of OpenFluter, just e-mail me.
+如果你有任何问题或者想成为OpenFlutter的一员，可以给我发邮件。
+email: <jarvan.mo@gmail.com>
 
 ## 现有项目大致介绍
 
@@ -65,8 +67,8 @@ UI solution, rich GIF demonstration.
 Screen adaptation scheme
 
 [sona](https://github.com/OpenFlutter/sona)  
-个推插件  
-Getui plugin
+不再维护，请使用个推官方插件。
+Not maintained.Please visit the getui official Plugin.
 
 [loadmore](https://github.com/OpenFlutter/flutter_listview_loadmore)  
 滚动到底加载更多,只支持 listview,易于使用  
