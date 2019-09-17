@@ -112,6 +112,6 @@ Page indicator for flutter, with multiple build-in layouts. Forked from best-flu
 酷炫的指示器，多达６种指示器样式。
 
 
-[neeko](https://github.com/OpenFlutter/neeko)
-Simple video player widget based on video_player.
+[neeko](https://github.com/OpenFlutter/neeko)  
+Simple video player widget based on video_player.   
 基于video_player的播放器控件。
