@@ -109,4 +109,9 @@ Plugin for AliCloud Push
 
 [flutter_page_indicator](https://github.com/OpenFlutter/flutter_page_indicator)  
 Page indicator for flutter, with multiple build-in layouts. Forked from best-flutter.   
-酷炫的指示器，多达６种指示器样式。   
+酷炫的指示器，多达６种指示器样式。
+
+
+[neeko](https://github.com/OpenFlutter/neeko)
+Simple video player widget based on video_player.
+基于video_player的播放器控件。
