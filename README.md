@@ -68,9 +68,6 @@ UI solution, rich GIF demonstration.
 屏幕适配的一个实现方案,欢迎关注  
 Screen adaptation scheme
 
-[sona](https://github.com/OpenFlutter/sona)  
-不再维护，请使用个推官方插件。
-Not maintained.Please visit the getui official Plugin.
 
 [loadmore](https://github.com/OpenFlutter/flutter_listview_loadmore)  
 滚动到底加载更多,只支持 listview,易于使用  
