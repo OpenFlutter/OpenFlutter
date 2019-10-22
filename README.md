@@ -111,4 +111,8 @@ Page indicator for flutter, with multiple build-in layouts. Forked from best-flu
 
 [neeko](https://github.com/OpenFlutter/neeko)  
 Simple video player widget based on video_player.   
-基于video_player的播放器控件。
+基于video_player的播放器控件。 
+
+[k_chart](https://github.com/OpenFlutter/k_chart)
+Flutter K-Chart.
+K线图。
