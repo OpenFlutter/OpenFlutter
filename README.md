@@ -116,3 +116,6 @@ Simple video player widget based on video_player.
 [k_chart](https://github.com/OpenFlutter/k_chart)
 Flutter K-Chart.
 K线图。
+
+[mini_calendar](https://github.com/OpenFlutter/mini_calendar)
+Date component developed with Flutter, plans to support display, swipe left and right, add date mark, radio, display week, etc.使用Flutter开发的日期组件，计划支持显示，左右滑动，添加日期标记，单选，显示星期等功能。
