@@ -113,11 +113,10 @@ Page indicator for flutter, with multiple build-in layouts. Forked from best-flu
 Simple video player widget based on video_player.   
 基于video_player的播放器控件。 
 
-[k_chart](https://github.com/OpenFlutter/k_chart)
-
+[k_chart](https://github.com/OpenFlutter/k_chart)  
 Flutter K-Chart.
-
 K线图。
 
-[mini_calendar](https://github.com/OpenFlutter/mini_calendar) 
-Date component developed with Flutter, plans to support display, swipe left and right, add date mark, radio, display week, etc.使用Flutter开发的日期组件，计划支持显示，左右滑动，添加日期标记，单选，显示星期等功能。
+[mini_calendar](https://github.com/OpenFlutter/mini_calendar)   
+Date component developed with Flutter, plans to support display, swipe left and right, add date mark, radio, display week, etc.  
+使用Flutter开发的日期组件，计划支持显示，左右滑动，添加日期标记，单选，显示星期等功能。
